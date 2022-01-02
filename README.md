@@ -3,15 +3,11 @@
 
 
 **Members:**
-*Capuno, Raven Miguel
-
-Decena, Stefen Genoa
-
-Ferrer, Chester Juliane
-
-Ignacio, Don Vincent
-
-Sicangco, Hans*
+- Capuno, Raven Miguel
+- Decena, Stefen Genoa
+- Ferrer, Chester Juliane
+- Ignacio, Don Vincent
+- Sicangco, Hans
 
 
 ### Introduction
