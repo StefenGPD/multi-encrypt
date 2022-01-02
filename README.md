@@ -1,12 +1,18 @@
 # AUF Encryptor and Decryptor :
 ## A Multilayered Encryption Software using Python
 
+
 **Members:**
 *Capuno, Raven Miguel
+
 Decena, Stefen Genoa
+
 Ferrer, Chester Juliane
+
 Ignacio, Don Vincent
+
 Sicangco, Hans*
+
 
 ### Introduction
 The project “Multilayered Text Encryptor” is a software that accepts text files and
